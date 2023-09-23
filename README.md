@@ -1,2 +1,2 @@
 # Musice-demo
-This is a musice demo for Git and Github Class
+This is a musice demo for Git & Github Class
